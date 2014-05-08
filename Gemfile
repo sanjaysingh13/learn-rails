@@ -1,6 +1,6 @@
 source 'https://rubygems.org' 
 ruby '2.1.1'
-gem 'rails', '4.1.0'
+gem 'rails', '4.1.1'
  # Rails defaults
 #gem 'arel' '5.0.1.20140414130214'
 #gem 'builder' '3.2.2'
